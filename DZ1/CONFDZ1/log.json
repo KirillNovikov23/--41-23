@@ -1,0 +1,38 @@
+[
+    {
+        "command": "pwd",
+        "result": "vfs_root"
+    },
+    {
+        "command": "ls",
+        "result": [
+            "file2.txt",
+            "folder1",
+            "folder2"
+        ]
+    },
+    {
+        "command": "cd",
+        "result": "vfs_root\\folder1"
+    },
+    {
+        "command": "pwd",
+        "result": "C:\\Users\\Home\\PycharmProjects\\CONFDZ1\\vfs_root\\folder1"
+    },
+    {
+        "command": "ls",
+        "result": [
+            "file1.txt"
+        ]
+    },
+    {
+        "command": "pwd",
+        "result": "C:\\Users\\Home\\PycharmProjects\\CONFDZ1\\vfs_root\\folder1"
+    },
+    {
+        "command": "ls",
+        "result": [
+            "file1.txt"
+        ]
+    }
+]
